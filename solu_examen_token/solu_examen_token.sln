@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examen_token", "examen_token\examen_token.csproj", "{7DE2D275-6920-4B46-BCDF-777434E21136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DE2D275-6920-4B46-BCDF-777434E21136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE2D275-6920-4B46-BCDF-777434E21136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE2D275-6920-4B46-BCDF-777434E21136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE2D275-6920-4B46-BCDF-777434E21136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1E42DD1-3F9C-44FB-84BC-BE753DCD3291}
+	EndGlobalSection
+EndGlobal
